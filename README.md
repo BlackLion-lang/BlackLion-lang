@@ -1,5 +1,7 @@
 # Hi there, I'm BlackLion 👋  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&center=true&vCenter=true&width=700&lines=Top+senior+blockchain+and+full+stack+developer)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 - 🔭 I’m currently working on **blockchain / web3 projects**  
 - 🌱 I’m learning **advanced smart contract development & trading bots**  
